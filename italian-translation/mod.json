@@ -1,7 +1,7 @@
 {	
 	"name" : "Italian translation",
 	"description" : "Italian translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/italian-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3 (04.02.2025)" : [ "AI generated translation update by Manfred" ],
 		"1.0.2" : [ "Fixed adventure event strings" ],
 		"1.0.1" : [ "png images" ],
 		"1.0.0" : [ "Initial release based on http://www.ilrealismonellafinzione.net/?categoria=giochi&gioco=heroes_iii&sezione=traduzione & HD Maps + Sounds + Icons" ]
@@ -23,6 +24,10 @@
 	"italian" : {
 		"name" : "Traduzione italiana",
 		"description" : "Traduzione italiana di Heroes of Might and Magic III: Edizione Completa"	
+	},
+	"polish" : {
+		"name" : "Włoskie tłumaczenie",
+		"description" : "Włoskie tłumaczenie Heroes of Might and Magic III: Complete Edition"	
 	},
 	"translations" : [
 		"config/vcmi-italian/game.json",
